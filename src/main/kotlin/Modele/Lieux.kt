@@ -1,4 +1,4 @@
-package org.example.Modéle
+package Modele
 
 import java.time.LocalTime
 

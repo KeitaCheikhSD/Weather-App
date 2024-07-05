@@ -1,4 +1,4 @@
-package org.example.Modéle
+package Modele
 
 class Temps {
     var temp_c = Int
