@@ -4,8 +4,8 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 
-class WeatherData {
+data class WeatherData (
 
-        val hour: List<Hour> = TODO()
+        val hour: List<Hours>
+)
 
-}

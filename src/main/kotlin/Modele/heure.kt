@@ -4,7 +4,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 
-data class Hour(
+data class Hours(
     val time_epoch: Long,
     val time: String,
     val temp_c: Float,

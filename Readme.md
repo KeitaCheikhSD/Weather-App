@@ -43,3 +43,6 @@ Forecast :
 Future :
 
 Astronomy :
+
+
+Comment mettre en Place les requetes HTTP :

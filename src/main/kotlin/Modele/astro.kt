@@ -1,6 +1,6 @@
 package org.example.Modele
 
-class astro {
+class Astro {
     var sunrise = String
     var sunset = String
     var moonrise = String
